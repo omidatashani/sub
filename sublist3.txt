@@ -4,3 +4,4 @@ vless://d92948c1-e51f-45c3-a4b3-55f8d5049316@speedtest.net:443?type=ws&host=isna
 vless://df9488dd-9089-40fb-a278-4e297d3b5fe9@speedtest.net:443?type=ws&host=yektanet.com&path=/ws?ed%3D2048&security=tls&fp=chrome&sni=speedtest.net&alpn=h2&allowInsecure=false&core=xray#baguette-y
 vmess://eyJhZGQiOiJzcGVlZHRlc3QubmV0IiwibmV0Ijoid3MiLCJzY3kiOiJhdXRvIiwicG9ydCI6IjQ0MyIsInNuaSI6InNwZWVkdGVzdC5uZXQiLCJob3N0IjoibmFtbmFrdC5jb20iLCJpZCI6IjZmNDYwZjkzLTMzN2EtNDljOC1iNmQ4LWM5YmU0Y2JjNWExMyIsInBzIjoiYWRkZXJhbGwteTEiLCJ0bHMiOiJ0bHMiLCJmcCI6ImNocm9tZSIsInBhdGgiOiJcL3dzP2VkPTI1NjAifQ==
 vless://72aeacb0-49a3-41b0-a4f6-380d3be88a5e@speedtest.net:443?type=ws&host=bale.ai&path=/ws?ed%3D2560&security=tls&fp=chrome&sni=speedtest.net&alpn=h2&allowInsecure=false&core=xray#matoride-y
+vless://72c09f7f-bab7-4f0d-9852-abefa0430bb8@speedtest.net:443?type=ws&host=tap30.ir&path=/downloader?ed%3D2560&security=tls&fp=chrome&sni=speedtest.net&alpn=h2&allowInsecure=false&core=xray#Hell-y
