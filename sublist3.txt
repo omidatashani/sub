@@ -6,3 +6,4 @@ vmess://eyJhZGQiOiJsaXZlLndrcnEuY29tIiwiaWQiOiI2ZjQ2MGY5My0zMzdhLTQ5YzgtYjZkOC1j
 vless://72aeacb0-49a3-41b0-a4f6-380d3be88a5e@live.wkrq.com:443?type=ws&host=bale.ai&path=/ws?ed%3D2560&security=tls&fp=chrome&sni=live.wkrq.com&alpn=h2&allowInsecure=false&core=xray#matoride-y2
 vless://72c09f7f-bab7-4f0d-9852-abefa0430bb8@live.wkrq.com:443?type=ws&host=tap30.ir&path=/downloader?ed%3D2560&security=tls&fp=chrome&sni=live.wkrq.com&alpn=h2&allowInsecure=false&core=xray#Hell-y2
 vless://bf389967-8e77-404d-9837-ea1b4521753c@live.wkrq.com:443?type=ws&host=asb.ir&path=/ws?ed%3D2560&security=tls&fp=chrome&sni=live.wkrq.com&alpn=h2&allowInsecure=false&core=xray#Amir-y2
+vless://19ca7fb0-39ab-480c-a4c1-d7b37c7be68e@direct.pdownloaddigikala.ir:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=direct.pdownloaddigikala.ir&pbk=7zcIOQnhtRJzR8pfciF3n26msSxuWIXFV08ejB3_3Rk&sid=01fca789&spx=/www#test
